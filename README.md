@@ -142,8 +142,8 @@ These results align with findings in the broader AI-productivity literature: AI 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/georgeded/regression-model-comparison-ml.git
-cd regression-model-comparison-ml
+git clone https://github.com/georgeded/ai-workplace-productivity-ml.git
+cd ai-workplace-productivity-ml
 ```
 
 **2. Install dependencies**
